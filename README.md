@@ -1,6 +1,6 @@
 # Tianyu Bai
 
-![My Photo](images/Profile.JPG)
+![My Photo](Profile.JPG)
 
 
 ## About Me  
